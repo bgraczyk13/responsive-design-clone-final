@@ -12,7 +12,7 @@
   top: -70px;
 }
 
-.logo {
+.bootstrap-logo {
   width: 200px;
   height: 55px;
   margin-left: 18vw;
@@ -45,7 +45,7 @@
   justify-content: space-between;
 }
 
-.body {
+.webpage-body {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -57,10 +57,10 @@
 }
 
 .welcome-message {
-  font-size: 33px;
   font-family: 'Noto Serif', Arial, Helvetica, sans-serif;
-  font-weight: 600;
   font-style: italic;
+  font-size: 33px;
+  font-weight: 600;
   color: white;
   margin-top: -95px;
 }
@@ -68,8 +68,8 @@
 .greeting-message {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-size: 65px;
-  color: white;
   font-weight: 800;
+  color: white;
   padding-top: 32px;
   padding-bottom: 60px;
   margin-top: -55px;
@@ -123,7 +123,7 @@
   align-items: center;
   padding: 12px;
   border: none;
-  border-radius: 0.25rem;
+  border-radius: 0.2rem;
   background-color: #fed136;
   margin-right: 9vw;
 }
@@ -132,7 +132,6 @@
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-size: 12px;
   color: white;
-  margin-right: 6px;
 }
 
 .mobile-menu-img {

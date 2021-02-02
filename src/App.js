@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <img className='hero-img' src='https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg' alt="img of men's accessories" />
       <header className='header'>
-        <img className='logo' src='https://startbootstrap.github.io/startbootstrap-agency/assets/img/navbar-logo.svg' alt='start-bootstrap logo' />
+        <img className='bootstrap-logo' src='https://startbootstrap.github.io/startbootstrap-agency/assets/img/navbar-logo.svg' alt='start-bootstrap logo' />
         <nav className='menu'>
           <p className='menu-selection'>SERVICES</p>
           <p className='menu-selection'>PORTFOLIO</p>
@@ -34,7 +34,7 @@ function App() {
           <p className='mobile-view-menu'>CONTACT</p>
         </div>
       </header>
-      <body className='body'>
+      <body className='webpage-body'>
         <h2 className='welcome-message'>Welcome To Our Studio!</h2>
         <h2 className='greeting-message'>IT'S NICE TO MEET YOU</h2>
         <button className='yellow-btn'>TELL ME MORE</button>
